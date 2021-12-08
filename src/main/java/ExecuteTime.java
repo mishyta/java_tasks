@@ -1,6 +1,6 @@
 import page.Page;
 import Objects.Clock;
-public class Main {
+public class ExecuteTime {
 
     public static void main(String[] args) {
 
